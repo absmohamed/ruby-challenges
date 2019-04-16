@@ -14,10 +14,19 @@
 # "hello", ["hi","howdy","hello"] should return true.
 
 def in_array (needle, haystack)
-  # Your code here
+  for word in haystack do
+    if word == needle
+      return true
+    end
+end
+return false
+haystack = ["Hi", "Hello"]
+needle = "Hello"
+word =  "Hello"
 end
 
 
 # Beast Mode:
 
 # Redo the challenge but try solving it again in a different way.
+puts in_array("hello", ["hi","howdy","hello"] )

@@ -18,11 +18,8 @@ def in_array (needle, haystack)
     if word == needle
       return true
     end
-end
+  end
 return false
-haystack = ["Hi", "Hello"]
-needle = "Hello"
-word =  "Hello"
 end
 
 

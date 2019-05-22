@@ -18,24 +18,27 @@
      `git push origin master`
 
 ## List of challenge branches
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-* 01_ruby_intro
-=======
 * 01_ruby_intro
 * 02_input_output
->>>>>>> e2732157f0941ad9a87df0187303e98b4ea7d9e8
-=======
-=======
->>>>>>> 0c5142cf57ae7e09850c719182717c4efdd33e24
 * 01_ruby_intro
 * 02_input_output
 * 03_largest_number
 * 04_sum_numbers
 * 05_in_array
-<<<<<<< HEAD
->>>>>>> a600065b3f320365a06fe044bcddc70911b1fe59
-=======
 * 06_definition
->>>>>>> 0c5142cf57ae7e09850c719182717c4efdd33e24
+* 07_included_once
+* 08_count_letters
+* 09_vowels
+* 10_unique
+* 11_fizzbuzz
+* 12_count_words
+* 13_fibonacci
+* 14_hackerman
+* 15_change_letters
+* 16_palindrome
+* 17_combine_hashes
+* 18_find_errors
+* 19_balanced_number
+* 20_descending_numbers
+* 21_sort_numbers
+* 22_exes_ohs
